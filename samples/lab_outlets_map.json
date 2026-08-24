@@ -1,0 +1,1244 @@
+{
+  "session_timestamp": 1787358077.8690858,
+  "coordinate_frame": "map",
+  "total_confirmed_outlets": 4,
+  "outlets": [
+    {
+      "id": "outlet_01",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -2.417,
+        "y": 2.492,
+        "z": -0.102
+      },
+      "total_observations": 177,
+      "confirmed": true,
+      "first_detected_timestamp": 1787357983.37,
+      "last_detected_timestamp": 1787357995.31
+    },
+    {
+      "id": "outlet_21",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -0.452,
+        "y": 0.024,
+        "z": 0.363
+      },
+      "total_observations": 518,
+      "confirmed": true,
+      "first_detected_timestamp": 1787358006.59,
+      "last_detected_timestamp": 1787358018.13
+    },
+    {
+      "id": "outlet_41",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -4.807,
+        "y": 1.852,
+        "z": 0.31
+      },
+      "total_observations": 176,
+      "confirmed": true,
+      "first_detected_timestamp": 1787358033.48,
+      "last_detected_timestamp": 1787358039.25
+    },
+    {
+      "id": "outlet_93",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.79,
+        "y": 1.614,
+        "z": -0.086
+      },
+      "total_observations": 213,
+      "confirmed": true,
+      "first_detected_timestamp": 1787358066.4,
+      "last_detected_timestamp": 1787358077.44
+    }
+  ],
+  "candidates": [
+    {
+      "id": "outlet_02",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -2.366,
+        "y": 3.635,
+        "z": -0.039
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787357994.98,
+      "last_detected_timestamp": 1787357994.98
+    },
+    {
+      "id": "outlet_03",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -2.411,
+        "y": 2.453,
+        "z": 0.275
+      },
+      "total_observations": 65,
+      "confirmed": false,
+      "first_detected_timestamp": 1787357995.38,
+      "last_detected_timestamp": 1787357999.65
+    },
+    {
+      "id": "outlet_04",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -2.427,
+        "y": 3.718,
+        "z": 0.218
+      },
+      "total_observations": 7,
+      "confirmed": false,
+      "first_detected_timestamp": 1787357997.08,
+      "last_detected_timestamp": 1787357999.58
+    },
+    {
+      "id": "outlet_05",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -2.728,
+        "y": 2.374,
+        "z": 0.313
+      },
+      "total_observations": 21,
+      "confirmed": false,
+      "first_detected_timestamp": 1787357999.72,
+      "last_detected_timestamp": 1787358058.69
+    },
+    {
+      "id": "outlet_06",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -2.771,
+        "y": 3.687,
+        "z": 0.384
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358000.75,
+      "last_detected_timestamp": 1787358000.75
+    },
+    {
+      "id": "outlet_07",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -2.906,
+        "y": 2.209,
+        "z": 0.436
+      },
+      "total_observations": 24,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358000.82,
+      "last_detected_timestamp": 1787358002.32
+    },
+    {
+      "id": "outlet_08",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -2.798,
+        "y": 4.08,
+        "z": 1.019
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358001.25,
+      "last_detected_timestamp": 1787358001.25
+    },
+    {
+      "id": "outlet_09",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -0.992,
+        "y": -0.666,
+        "z": 0.338
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358001.42,
+      "last_detected_timestamp": 1787358001.42
+    },
+    {
+      "id": "outlet_10",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.486,
+        "y": -0.326,
+        "z": 0.374
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358001.52,
+      "last_detected_timestamp": 1787358001.52
+    },
+    {
+      "id": "outlet_11",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.292,
+        "y": 3.746,
+        "z": 0.286
+      },
+      "total_observations": 3,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358001.85,
+      "last_detected_timestamp": 1787358002.19
+    },
+    {
+      "id": "outlet_12",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.208,
+        "y": 3.433,
+        "z": 0.407
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358002.32,
+      "last_detected_timestamp": 1787358002.32
+    },
+    {
+      "id": "outlet_13",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -2.907,
+        "y": 1.951,
+        "z": 0.308
+      },
+      "total_observations": 2,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358002.39,
+      "last_detected_timestamp": 1787358043.32
+    },
+    {
+      "id": "outlet_14",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.447,
+        "y": 3.281,
+        "z": 0.626
+      },
+      "total_observations": 4,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358002.45,
+      "last_detected_timestamp": 1787358065.03
+    },
+    {
+      "id": "outlet_15",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -2.957,
+        "y": 1.642,
+        "z": 0.526
+      },
+      "total_observations": 5,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358002.45,
+      "last_detected_timestamp": 1787358002.65
+    },
+    {
+      "id": "outlet_16",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.253,
+        "y": 1.277,
+        "z": 0.405
+      },
+      "total_observations": 24,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358002.72,
+      "last_detected_timestamp": 1787358020.37
+    },
+    {
+      "id": "outlet_17",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.208,
+        "y": 1.098,
+        "z": 0.57
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358002.79,
+      "last_detected_timestamp": 1787358002.79
+    },
+    {
+      "id": "outlet_18",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -2.884,
+        "y": 0.457,
+        "z": 0.967
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358002.85,
+      "last_detected_timestamp": 1787358002.85
+    },
+    {
+      "id": "outlet_19",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.405,
+        "y": 0.734,
+        "z": 0.503
+      },
+      "total_observations": 3,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358002.85,
+      "last_detected_timestamp": 1787358002.92
+    },
+    {
+      "id": "outlet_20",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.472,
+        "y": 0.486,
+        "z": 0.472
+      },
+      "total_observations": 2,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358002.99,
+      "last_detected_timestamp": 1787358002.99
+    },
+    {
+      "id": "outlet_22",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -0.669,
+        "y": 0.256,
+        "z": 0.362
+      },
+      "total_observations": 2,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358018.2,
+      "last_detected_timestamp": 1787358018.26
+    },
+    {
+      "id": "outlet_23",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.394,
+        "y": 2.429,
+        "z": 0.643
+      },
+      "total_observations": 9,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358019.0,
+      "last_detected_timestamp": 1787358019.23
+    },
+    {
+      "id": "outlet_24",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -0.672,
+        "y": 3.659,
+        "z": 0.75
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358019.0,
+      "last_detected_timestamp": 1787358019.0
+    },
+    {
+      "id": "outlet_25",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -0.496,
+        "y": 4.048,
+        "z": 1.169
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358019.23,
+      "last_detected_timestamp": 1787358019.23
+    },
+    {
+      "id": "outlet_26",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.839,
+        "y": 2.309,
+        "z": 0.583
+      },
+      "total_observations": 5,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358019.3,
+      "last_detected_timestamp": 1787358019.37
+    },
+    {
+      "id": "outlet_27",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -2.222,
+        "y": 2.156,
+        "z": 0.569
+      },
+      "total_observations": 2,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358019.43,
+      "last_detected_timestamp": 1787358019.43
+    },
+    {
+      "id": "outlet_28",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.984,
+        "y": 2.519,
+        "z": 0.31
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358020.37,
+      "last_detected_timestamp": 1787358020.37
+    },
+    {
+      "id": "outlet_29",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.512,
+        "y": 0.982,
+        "z": 0.396
+      },
+      "total_observations": 4,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358020.43,
+      "last_detected_timestamp": 1787358020.5
+    },
+    {
+      "id": "outlet_30",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -4.275,
+        "y": 2.144,
+        "z": 0.431
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358020.5,
+      "last_detected_timestamp": 1787358020.5
+    },
+    {
+      "id": "outlet_31",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -2.964,
+        "y": 4.374,
+        "z": 0.559
+      },
+      "total_observations": 3,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358024.8,
+      "last_detected_timestamp": 1787358024.94
+    },
+    {
+      "id": "outlet_32",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.224,
+        "y": 4.248,
+        "z": 0.605
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358025.34,
+      "last_detected_timestamp": 1787358025.34
+    },
+    {
+      "id": "outlet_33",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.749,
+        "y": 3.92,
+        "z": 0.531
+      },
+      "total_observations": 40,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358025.47,
+      "last_detected_timestamp": 1787358029.11
+    },
+    {
+      "id": "outlet_34",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -4.08,
+        "y": 3.648,
+        "z": 0.462
+      },
+      "total_observations": 34,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358026.5,
+      "last_detected_timestamp": 1787358041.41
+    },
+    {
+      "id": "outlet_35",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -4.908,
+        "y": 1.28,
+        "z": 0.407
+      },
+      "total_observations": 32,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358029.84,
+      "last_detected_timestamp": 1787358032.97
+    },
+    {
+      "id": "outlet_36",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -4.919,
+        "y": 1.659,
+        "z": 0.427
+      },
+      "total_observations": 5,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358030.37,
+      "last_detected_timestamp": 1787358033.17
+    },
+    {
+      "id": "outlet_37",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -4.779,
+        "y": 2.438,
+        "z": 0.346
+      },
+      "total_observations": 4,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358030.64,
+      "last_detected_timestamp": 1787358039.61
+    },
+    {
+      "id": "outlet_38",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -4.357,
+        "y": 3.428,
+        "z": 0.389
+      },
+      "total_observations": 6,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358031.31,
+      "last_detected_timestamp": 1787358041.25
+    },
+    {
+      "id": "outlet_39",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -4.458,
+        "y": 3.058,
+        "z": 0.385
+      },
+      "total_observations": 5,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358031.57,
+      "last_detected_timestamp": 1787358041.18
+    },
+    {
+      "id": "outlet_40",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -4.573,
+        "y": 2.743,
+        "z": 0.399
+      },
+      "total_observations": 36,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358031.64,
+      "last_detected_timestamp": 1787358040.95
+    },
+    {
+      "id": "outlet_42",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -4.802,
+        "y": 2.155,
+        "z": 0.31
+      },
+      "total_observations": 7,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358039.31,
+      "last_detected_timestamp": 1787358039.48
+    },
+    {
+      "id": "outlet_43",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.642,
+        "y": 3.651,
+        "z": 0.407
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358041.48,
+      "last_detected_timestamp": 1787358041.48
+    },
+    {
+      "id": "outlet_44",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.707,
+        "y": 3.665,
+        "z": 0.416
+      },
+      "total_observations": 8,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358043.82,
+      "last_detected_timestamp": 1787358043.95
+    },
+    {
+      "id": "outlet_45",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.772,
+        "y": 3.727,
+        "z": 0.953
+      },
+      "total_observations": 4,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358043.88,
+      "last_detected_timestamp": 1787358044.08
+    },
+    {
+      "id": "outlet_46",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.583,
+        "y": 3.523,
+        "z": 0.38
+      },
+      "total_observations": 2,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358044.02,
+      "last_detected_timestamp": 1787358044.02
+    },
+    {
+      "id": "outlet_47",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.342,
+        "y": 3.272,
+        "z": 0.446
+      },
+      "total_observations": 2,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358044.15,
+      "last_detected_timestamp": 1787358044.15
+    },
+    {
+      "id": "outlet_48",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.467,
+        "y": 3.496,
+        "z": 0.985
+      },
+      "total_observations": 2,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358044.15,
+      "last_detected_timestamp": 1787358044.22
+    },
+    {
+      "id": "outlet_49",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.082,
+        "y": 2.709,
+        "z": 0.394
+      },
+      "total_observations": 3,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358044.28,
+      "last_detected_timestamp": 1787358044.38
+    },
+    {
+      "id": "outlet_50",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -0.963,
+        "y": 2.286,
+        "z": 0.452
+      },
+      "total_observations": 2,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358044.45,
+      "last_detected_timestamp": 1787358044.52
+    },
+    {
+      "id": "outlet_51",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.795,
+        "y": 1.328,
+        "z": 0.621
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358044.45,
+      "last_detected_timestamp": 1787358044.45
+    },
+    {
+      "id": "outlet_52",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -0.839,
+        "y": 1.733,
+        "z": 0.366
+      },
+      "total_observations": 25,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358044.58,
+      "last_detected_timestamp": 1787358045.38
+    },
+    {
+      "id": "outlet_53",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.437,
+        "y": 1.372,
+        "z": -0.047
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358044.95,
+      "last_detected_timestamp": 1787358044.95
+    },
+    {
+      "id": "outlet_54",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.049,
+        "y": 1.367,
+        "z": 0.448
+      },
+      "total_observations": 5,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358045.38,
+      "last_detected_timestamp": 1787358045.58
+    },
+    {
+      "id": "outlet_55",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -0.583,
+        "y": 2.155,
+        "z": 0.85
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358045.45,
+      "last_detected_timestamp": 1787358045.45
+    },
+    {
+      "id": "outlet_56",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.209,
+        "y": 1.13,
+        "z": 0.475
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358045.62,
+      "last_detected_timestamp": 1787358045.62
+    },
+    {
+      "id": "outlet_57",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.585,
+        "y": 0.805,
+        "z": 0.435
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358045.82,
+      "last_detected_timestamp": 1787358045.82
+    },
+    {
+      "id": "outlet_58",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 1.079,
+        "y": 2.025,
+        "z": 0.381
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358045.85,
+      "last_detected_timestamp": 1787358045.85
+    },
+    {
+      "id": "outlet_59",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 0.843,
+        "y": 1.083,
+        "z": 0.454
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358045.98,
+      "last_detected_timestamp": 1787358045.98
+    },
+    {
+      "id": "outlet_60",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -2.18,
+        "y": 0.57,
+        "z": 0.382
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358046.05,
+      "last_detected_timestamp": 1787358046.05
+    },
+    {
+      "id": "outlet_61",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -0.269,
+        "y": -0.382,
+        "z": 0.539
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358046.22,
+      "last_detected_timestamp": 1787358046.22
+    },
+    {
+      "id": "outlet_62",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.368,
+        "y": -1.062,
+        "z": 0.499
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358046.48,
+      "last_detected_timestamp": 1787358046.48
+    },
+    {
+      "id": "outlet_63",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 1.001,
+        "y": -0.769,
+        "z": 0.483
+      },
+      "total_observations": 6,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358046.55,
+      "last_detected_timestamp": 1787358048.49
+    },
+    {
+      "id": "outlet_64",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 0.266,
+        "y": -1.505,
+        "z": 1.106
+      },
+      "total_observations": 24,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358046.62,
+      "last_detected_timestamp": 1787358047.72
+    },
+    {
+      "id": "outlet_65",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 1.089,
+        "y": -0.89,
+        "z": 0.463
+      },
+      "total_observations": 7,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358046.62,
+      "last_detected_timestamp": 1787358047.39
+    },
+    {
+      "id": "outlet_66",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.576,
+        "y": -1.24,
+        "z": 0.474
+      },
+      "total_observations": 13,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358046.62,
+      "last_detected_timestamp": 1787358047.59
+    },
+    {
+      "id": "outlet_67",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 0.355,
+        "y": -1.475,
+        "z": 1.561
+      },
+      "total_observations": 3,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358046.62,
+      "last_detected_timestamp": 1787358047.25
+    },
+    {
+      "id": "outlet_68",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 0.881,
+        "y": -0.645,
+        "z": 0.416
+      },
+      "total_observations": 18,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358046.95,
+      "last_detected_timestamp": 1787358048.69
+    },
+    {
+      "id": "outlet_69",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -0.86,
+        "y": -1.806,
+        "z": 1.561
+      },
+      "total_observations": 2,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358047.19,
+      "last_detected_timestamp": 1787358047.19
+    },
+    {
+      "id": "outlet_70",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -0.989,
+        "y": -1.54,
+        "z": 0.986
+      },
+      "total_observations": 3,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358047.25,
+      "last_detected_timestamp": 1787358047.39
+    },
+    {
+      "id": "outlet_71",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.127,
+        "y": -1.355,
+        "z": 1.142
+      },
+      "total_observations": 5,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358047.59,
+      "last_detected_timestamp": 1787358048.02
+    },
+    {
+      "id": "outlet_72",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 0.08,
+        "y": -1.242,
+        "z": 1.047
+      },
+      "total_observations": 39,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358047.72,
+      "last_detected_timestamp": 1787358049.52
+    },
+    {
+      "id": "outlet_73",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.756,
+        "y": -0.975,
+        "z": 0.448
+      },
+      "total_observations": 20,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358047.75,
+      "last_detected_timestamp": 1787358049.05
+    },
+    {
+      "id": "outlet_74",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 0.177,
+        "y": -1.133,
+        "z": 1.414
+      },
+      "total_observations": 3,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358047.75,
+      "last_detected_timestamp": 1787358048.42
+    },
+    {
+      "id": "outlet_75",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.275,
+        "y": -1.223,
+        "z": 0.996
+      },
+      "total_observations": 6,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358048.15,
+      "last_detected_timestamp": 1787358049.05
+    },
+    {
+      "id": "outlet_76",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 0.067,
+        "y": -1.364,
+        "z": 0.99
+      },
+      "total_observations": 12,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358048.82,
+      "last_detected_timestamp": 1787358049.52
+    },
+    {
+      "id": "outlet_77",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 0.766,
+        "y": -1.407,
+        "z": 0.813
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358050.95,
+      "last_detected_timestamp": 1787358050.95
+    },
+    {
+      "id": "outlet_78",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 3.857,
+        "y": -3.392,
+        "z": 1.815
+      },
+      "total_observations": 2,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358051.32,
+      "last_detected_timestamp": 1787358051.39
+    },
+    {
+      "id": "outlet_79",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 3.945,
+        "y": -3.559,
+        "z": 1.635
+      },
+      "total_observations": 3,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358051.52,
+      "last_detected_timestamp": 1787358051.66
+    },
+    {
+      "id": "outlet_80",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 3.708,
+        "y": -3.748,
+        "z": 1.74
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358051.72,
+      "last_detected_timestamp": 1787358051.72
+    },
+    {
+      "id": "outlet_81",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 3.018,
+        "y": -4.406,
+        "z": 1.491
+      },
+      "total_observations": 6,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358052.39,
+      "last_detected_timestamp": 1787358053.16
+    },
+    {
+      "id": "outlet_82",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 1.88,
+        "y": -3.107,
+        "z": 0.35
+      },
+      "total_observations": 2,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358052.66,
+      "last_detected_timestamp": 1787358052.92
+    },
+    {
+      "id": "outlet_83",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 2.558,
+        "y": -4.693,
+        "z": 1.461
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358053.36,
+      "last_detected_timestamp": 1787358053.36
+    },
+    {
+      "id": "outlet_84",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 1.892,
+        "y": -5.103,
+        "z": 1.609
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358053.49,
+      "last_detected_timestamp": 1787358053.49
+    },
+    {
+      "id": "outlet_85",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 0.49,
+        "y": -5.83,
+        "z": 1.588
+      },
+      "total_observations": 5,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358053.86,
+      "last_detected_timestamp": 1787358054.52
+    },
+    {
+      "id": "outlet_86",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 0.822,
+        "y": -5.639,
+        "z": 1.453
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358054.66,
+      "last_detected_timestamp": 1787358054.66
+    },
+    {
+      "id": "outlet_87",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -2.202,
+        "y": 2.967,
+        "z": 0.584
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358058.13,
+      "last_detected_timestamp": 1787358058.13
+    },
+    {
+      "id": "outlet_88",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -2.256,
+        "y": 2.621,
+        "z": 0.48
+      },
+      "total_observations": 6,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358058.26,
+      "last_detected_timestamp": 1787358058.46
+    },
+    {
+      "id": "outlet_89",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -2.518,
+        "y": 2.535,
+        "z": 0.517
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358058.53,
+      "last_detected_timestamp": 1787358058.53
+    },
+    {
+      "id": "outlet_90",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -2.98,
+        "y": 2.631,
+        "z": 0.469
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358058.73,
+      "last_detected_timestamp": 1787358058.73
+    },
+    {
+      "id": "outlet_91",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.398,
+        "y": 1.927,
+        "z": 0.451
+      },
+      "total_observations": 96,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358058.93,
+      "last_detected_timestamp": 1787358065.16
+    },
+    {
+      "id": "outlet_92",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.721,
+        "y": 1.652,
+        "z": 0.182
+      },
+      "total_observations": 18,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358065.23,
+      "last_detected_timestamp": 1787358066.27
+    },
+    {
+      "id": "outlet_94",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.988,
+        "y": 2.905,
+        "z": -0.045
+      },
+      "total_observations": 5,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358067.47,
+      "last_detected_timestamp": 1787358075.71
+    },
+    {
+      "id": "outlet_95",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -0.495,
+        "y": 0.626,
+        "z": 0.572
+      },
+      "total_observations": 4,
+      "confirmed": false,
+      "first_detected_timestamp": 1787358074.7,
+      "last_detected_timestamp": 1787358075.11
+    }
+  ]
+}
