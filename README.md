@@ -1,6 +1,6 @@
 # Unitree Go2 Real-Time Pipeline for Semantic Segmenation and Spatial Landmark Mapping 
 
-
+![RealSense Segmentation and Telemetry](sampled_images/realsense_spatial_outlet_sample.jpg)
 ## Overview
 An end-to-end spatial perception, open-vocabulary semantic detection, and 3D landmark mapping pipeline deployed on the **Unitree Go2 quadruped** equipped with an **Intel RealSense D435i** depth camera.
 
