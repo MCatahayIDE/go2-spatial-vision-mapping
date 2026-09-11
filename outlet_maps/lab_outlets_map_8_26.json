@@ -1,0 +1,672 @@
+{
+  "session_timestamp": 1787796484.6152177,
+  "coordinate_frame": "map",
+  "total_confirmed_outlets": 3,
+  "outlets": [
+    {
+      "id": "outlet_02",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -0.1,
+        "y": -1.509,
+        "z": 0.478
+      },
+      "total_observations": 126,
+      "confirmed": true,
+      "first_detected_timestamp": 1787796038.22,
+      "last_detected_timestamp": 1787796045.06
+    },
+    {
+      "id": "outlet_08",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -0.568,
+        "y": 0.92,
+        "z": 0.455
+      },
+      "total_observations": 166,
+      "confirmed": true,
+      "first_detected_timestamp": 1787796052.4,
+      "last_detected_timestamp": 1787796061.2
+    },
+    {
+      "id": "outlet_25",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -2.06,
+        "y": 1.443,
+        "z": 0.498
+      },
+      "total_observations": 247,
+      "confirmed": true,
+      "first_detected_timestamp": 1787796068.78,
+      "last_detected_timestamp": 1787796076.88
+    }
+  ],
+  "candidates": [
+    {
+      "id": "outlet_01",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -0.413,
+        "y": -2.409,
+        "z": 0.988
+      },
+      "total_observations": 11,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796038.22,
+      "last_detected_timestamp": 1787796038.79
+    },
+    {
+      "id": "outlet_03",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 0.283,
+        "y": -1.348,
+        "z": 0.453
+      },
+      "total_observations": 2,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796045.16,
+      "last_detected_timestamp": 1787796045.29
+    },
+    {
+      "id": "outlet_04",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -0.845,
+        "y": 0.929,
+        "z": 0.442
+      },
+      "total_observations": 56,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796048.49,
+      "last_detected_timestamp": 1787796061.8
+    },
+    {
+      "id": "outlet_05",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.173,
+        "y": 0.82,
+        "z": 0.472
+      },
+      "total_observations": 9,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796049.36,
+      "last_detected_timestamp": 1787796061.7
+    },
+    {
+      "id": "outlet_06",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.787,
+        "y": 1.536,
+        "z": 0.708
+      },
+      "total_observations": 57,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796049.86,
+      "last_detected_timestamp": 1787796054.67
+    },
+    {
+      "id": "outlet_07",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.577,
+        "y": 1.365,
+        "z": 0.696
+      },
+      "total_observations": 18,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796051.73,
+      "last_detected_timestamp": 1787796063.77
+    },
+    {
+      "id": "outlet_09",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.389,
+        "y": 1.964,
+        "z": 0.693
+      },
+      "total_observations": 6,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796052.63,
+      "last_detected_timestamp": 1787796067.94
+    },
+    {
+      "id": "outlet_10",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -4.009,
+        "y": 0.201,
+        "z": 0.704
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796053.66,
+      "last_detected_timestamp": 1787796053.66
+    },
+    {
+      "id": "outlet_11",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -4.077,
+        "y": 0.468,
+        "z": 0.696
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796053.73,
+      "last_detected_timestamp": 1787796053.73
+    },
+    {
+      "id": "outlet_12",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.701,
+        "y": 1.898,
+        "z": 0.659
+      },
+      "total_observations": 2,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796054.73,
+      "last_detected_timestamp": 1787796054.8
+    },
+    {
+      "id": "outlet_13",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.53,
+        "y": 2.221,
+        "z": 0.673
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796054.87,
+      "last_detected_timestamp": 1787796054.87
+    },
+    {
+      "id": "outlet_14",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.172,
+        "y": 2.388,
+        "z": 0.653
+      },
+      "total_observations": 3,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796054.93,
+      "last_detected_timestamp": 1787796054.93
+    },
+    {
+      "id": "outlet_15",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.017,
+        "y": 2.587,
+        "z": 0.661
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796055.0,
+      "last_detected_timestamp": 1787796055.0
+    },
+    {
+      "id": "outlet_16",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.525,
+        "y": 1.628,
+        "z": 0.679
+      },
+      "total_observations": 5,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796062.04,
+      "last_detected_timestamp": 1787796062.8
+    },
+    {
+      "id": "outlet_17",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.825,
+        "y": 0.982,
+        "z": 0.645
+      },
+      "total_observations": 7,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796062.3,
+      "last_detected_timestamp": 1787796063.17
+    },
+    {
+      "id": "outlet_18",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.882,
+        "y": 0.745,
+        "z": 0.666
+      },
+      "total_observations": 5,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796062.4,
+      "last_detected_timestamp": 1787796063.2
+    },
+    {
+      "id": "outlet_19",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.797,
+        "y": 1.29,
+        "z": 0.496
+      },
+      "total_observations": 3,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796063.0,
+      "last_detected_timestamp": 1787796067.74
+    },
+    {
+      "id": "outlet_20",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.551,
+        "y": 0.932,
+        "z": 0.633
+      },
+      "total_observations": 7,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796063.9,
+      "last_detected_timestamp": 1787796064.14
+    },
+    {
+      "id": "outlet_21",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -4.923,
+        "y": 0.535,
+        "z": 0.791
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796063.97,
+      "last_detected_timestamp": 1787796063.97
+    },
+    {
+      "id": "outlet_22",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -5.086,
+        "y": 0.976,
+        "z": 0.477
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796064.77,
+      "last_detected_timestamp": 1787796064.77
+    },
+    {
+      "id": "outlet_23",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -4.071,
+        "y": 1.283,
+        "z": 0.568
+      },
+      "total_observations": 3,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796066.61,
+      "last_detected_timestamp": 1787796067.11
+    },
+    {
+      "id": "outlet_24",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -4.111,
+        "y": 1.289,
+        "z": 0.914
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796067.11,
+      "last_detected_timestamp": 1787796067.11
+    },
+    {
+      "id": "outlet_26",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -3.469,
+        "y": 1.648,
+        "z": 0.347
+      },
+      "total_observations": 2,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796068.91,
+      "last_detected_timestamp": 1787796069.04
+    },
+    {
+      "id": "outlet_27",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.798,
+        "y": 1.417,
+        "z": 0.471
+      },
+      "total_observations": 12,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796069.24,
+      "last_detected_timestamp": 1787796077.11
+    },
+    {
+      "id": "outlet_28",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": -1.467,
+        "y": 1.329,
+        "z": 0.488
+      },
+      "total_observations": 3,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796077.18,
+      "last_detected_timestamp": 1787796077.28
+    },
+    {
+      "id": "outlet_29",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 0.978,
+        "y": 0.797,
+        "z": 0.565
+      },
+      "total_observations": 8,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796077.91,
+      "last_detected_timestamp": 1787796078.42
+    },
+    {
+      "id": "outlet_30",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 0.983,
+        "y": 0.491,
+        "z": 0.476
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796078.48,
+      "last_detected_timestamp": 1787796078.48
+    },
+    {
+      "id": "outlet_31",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 0.859,
+        "y": 0.071,
+        "z": 0.574
+      },
+      "total_observations": 4,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796078.58,
+      "last_detected_timestamp": 1787796078.92
+    },
+    {
+      "id": "outlet_32",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 19.48,
+        "y": -9.383,
+        "z": 7.191
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796079.08,
+      "last_detected_timestamp": 1787796079.08
+    },
+    {
+      "id": "outlet_33",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 0.432,
+        "y": 0.494,
+        "z": 0.469
+      },
+      "total_observations": 15,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796079.42,
+      "last_detected_timestamp": 1787796080.78
+    },
+    {
+      "id": "outlet_34",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 1.119,
+        "y": 0.335,
+        "z": 1.204
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796079.45,
+      "last_detected_timestamp": 1787796079.45
+    },
+    {
+      "id": "outlet_35",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 0.867,
+        "y": 0.243,
+        "z": 1.092
+      },
+      "total_observations": 3,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796079.45,
+      "last_detected_timestamp": 1787796079.92
+    },
+    {
+      "id": "outlet_36",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 1.467,
+        "y": -0.964,
+        "z": 1.188
+      },
+      "total_observations": 20,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796079.52,
+      "last_detected_timestamp": 1787796080.85
+    },
+    {
+      "id": "outlet_37",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 1.294,
+        "y": -1.374,
+        "z": 1.237
+      },
+      "total_observations": 7,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796079.72,
+      "last_detected_timestamp": 1787796080.08
+    },
+    {
+      "id": "outlet_38",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 1.361,
+        "y": -1.148,
+        "z": 1.057
+      },
+      "total_observations": 2,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796080.85,
+      "last_detected_timestamp": 1787796080.95
+    },
+    {
+      "id": "outlet_39",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 19.497,
+        "y": -3.433,
+        "z": 4.689
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796080.85,
+      "last_detected_timestamp": 1787796080.85
+    },
+    {
+      "id": "outlet_40",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 0.034,
+        "y": 0.696,
+        "z": 0.48
+      },
+      "total_observations": 6,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796080.95,
+      "last_detected_timestamp": 1787796081.45
+    },
+    {
+      "id": "outlet_41",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 1.454,
+        "y": -0.577,
+        "z": 1.031
+      },
+      "total_observations": 2,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796081.02,
+      "last_detected_timestamp": 1787796081.02
+    },
+    {
+      "id": "outlet_42",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 21.354,
+        "y": -5.747,
+        "z": 5.825
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796081.85,
+      "last_detected_timestamp": 1787796081.85
+    },
+    {
+      "id": "outlet_43",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 1.929,
+        "y": -1.352,
+        "z": 1.164
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796082.58,
+      "last_detected_timestamp": 1787796082.58
+    },
+    {
+      "id": "outlet_44",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 5.374,
+        "y": -2.289,
+        "z": 2.12
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796083.29,
+      "last_detected_timestamp": 1787796083.29
+    },
+    {
+      "id": "outlet_45",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 5.376,
+        "y": -1.603,
+        "z": 1.93
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796084.65,
+      "last_detected_timestamp": 1787796084.65
+    },
+    {
+      "id": "outlet_46",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 5.051,
+        "y": -0.966,
+        "z": 1.84
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796085.79,
+      "last_detected_timestamp": 1787796085.79
+    },
+    {
+      "id": "outlet_47",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 5.158,
+        "y": -1.309,
+        "z": 1.946
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796086.49,
+      "last_detected_timestamp": 1787796086.49
+    },
+    {
+      "id": "outlet_48",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 3.319,
+        "y": -1.38,
+        "z": 0.634
+      },
+      "total_observations": 16,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796087.62,
+      "last_detected_timestamp": 1787796088.79
+    },
+    {
+      "id": "outlet_49",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 4.997,
+        "y": -1.84,
+        "z": 1.91
+      },
+      "total_observations": 21,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796087.86,
+      "last_detected_timestamp": 1787796089.46
+    },
+    {
+      "id": "outlet_50",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 4.707,
+        "y": -1.886,
+        "z": 1.344
+      },
+      "total_observations": 1,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796088.16,
+      "last_detected_timestamp": 1787796088.16
+    },
+    {
+      "id": "outlet_51",
+      "class": "power_outlet",
+      "position_meters": {
+        "x": 0.456,
+        "y": 0.018,
+        "z": 0.149
+      },
+      "total_observations": 2,
+      "confirmed": false,
+      "first_detected_timestamp": 1787796380.46,
+      "last_detected_timestamp": 1787796380.46
+    }
+  ]
+}
